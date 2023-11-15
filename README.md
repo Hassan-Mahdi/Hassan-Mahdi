@@ -3,13 +3,13 @@
 ### Hi there 👋, I'm Hassan Mahdi
 #### Web Developer
 
-I'm a Font End Web Developer. I'm Passionate about my Work. l have a passion for learning So i can do Any new Task and Solve real world problem.
+I'm a Font End Web Developer. I'm Passionate about my Work. l have a passion for learning So I can do Any new Task and Solve real-world problems.
 
 Skills:  REACT / JS / HTML / CSS/Bootstrap
 
 - 🔭 I’m currently working on AvienTech 
 - 🌱 I’m currently learning JS 
-- 👯 I’m looking to collaborate on Web Design 
+- 👯 I’m looking to collaborate on Web Design/Development
 - 🤔 I’m looking for help with ReacJS 
 - 💬 Ask me about Web Design 
 - 📫 How to reach me: mahdi4971@gmail.com 
