@@ -2,15 +2,15 @@
 
 ### Hi there 👋, I'm Hassan Mahdi
 
-I'm a Font End Web Developer. I'm Passionate about my Work. l have a passion for learning So I can do Any new Task and Solve real-world problems.
+I'm a  Full-stack Web Developer. I'm Passionate about my Work. l have a passion for learning So I can do Any new Task and Solve real-world problems.
 
-Skills:  REACT / JS / HTML / CSS/Bootstrap
+Skills:  Laravel / REACT / JS / HTML / CSS / Bootstrap / 
 
-- 🔭 I’m currently working on AvienTech 
-- 🌱 I’m currently learning JS 
+- 🔭 I’m currently working on Yyildirim Media
+- 🌱 I’m currently learning Laravel
 - 👯 I’m looking to collaborate on Web Design/Development
-- 🤔 I’m looking for help with ReacJS 
-- 💬 Ask me about Web Design 
+- 🤔 I’m looking for help with ReacJS @ Laravel
+- 💬 Ask me about Web Design
 - 📫 How to reach me: mahdi4971@gmail.com 
 - 😄 Pronouns: Time 
 - ⚡ Fun fact: thinking 
