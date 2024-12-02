@@ -2,9 +2,9 @@
 
 ### Hi there 👋, I'm Hassan Mahdi
 
-I'm a  Full-stack Web Developer. I'm Passionate about my Work. l have a passion for learning So I can do Any new Task and Solve real-world problems.
+I'm a Front-end Developer. I'm Passionate about my Work. l have a passion for learning So I can do Any new Task and Solve real-world problems.
 
-Skills:  Laravel / REACT / JS / HTML / CSS / Bootstrap / 
+Skills: REACT / JS / HTML / CSS / Bootstrap /
 
 - 🔭 I’m currently working on Yyildirim Media
 - 🌱 I’m currently learning Laravel
