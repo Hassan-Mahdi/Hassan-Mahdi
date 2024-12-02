@@ -6,13 +6,12 @@ I'm a Front-end Developer. I'm Passionate about my Work. l have a passion for le
 
 Skills: REACT / JS / HTML / CSS / Bootstrap /
 
-- 🔭 I’m currently working on Yyildirim Media
-- 🌱 I’m currently learning Laravel
+- 🔭 I’m currently working on ProjonmoSoft
+- 🌱 I’m currently learning ReactJs
 - 👯 I’m looking to collaborate on Web Design/Development
-- 🤔 I’m looking for help with ReacJS @ Laravel
-- 💬 Ask me about Web Design
+- 🤔 I’m looking for help with ReacJS
+- 💬 Ask me about Web Development
 - 📫 How to reach me: mahdi4971@gmail.com 
-- 😄 Pronouns: Time 
 - ⚡ Fun fact: thinking 
 
 
